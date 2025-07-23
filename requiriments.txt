@@ -1,0 +1,3 @@
+cryptography
+PyQt6
+pyinstaller
